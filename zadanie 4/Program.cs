@@ -10,12 +10,13 @@ namespace zadanie_4
     {
         static void Main(string[] args)
         {//Napisać program wczytujący boki prostokąta i wypisujący na ekranie jego pole i obwód
-            Double a,b
+            Double a, b;
             Console.Write("Podaj długosc pierwszego boku: ");
             a = Convert.ToDouble(Console.ReadLine());
             Console.Write("Podaj długosc drugiego boku: ");
             b = Convert.ToDouble(Console.ReadLine());
             Console.WriteLine("Pole prostokąta={0}", a * b);
+            Console.WriteLine("Obwod prostokata={0}", 2 * a + 2 * b);
 
 
         }

@@ -11,7 +11,7 @@ namespace ConsoleApp1
         static void Main(string[] args)
         {
             Console.WriteLine("Witaj świecie");//wypisuje tekst trolololo
-            Console.ReadLine(true);
+    
             /*
             Console.ReadKey(true);
             Console.ReadKey(true);
