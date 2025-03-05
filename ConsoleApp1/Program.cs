@@ -10,7 +10,7 @@ namespace ConsoleApp1
         /// <param name="args">argumenty metody</param>
         static void Main(string[] args)
         {
-            Console.WriteLine("Witaj świecie");//wypisuje tekst
+            Console.WriteLine("Witaj świecie");//wypisuje tekst trolololo
             Console.ReadLine(true);
             /*
             Console.ReadKey(true);
